@@ -39,28 +39,27 @@ In the folder test - file - main-calculateScore.test.js you will find the test s
 - The test is taking as a parameter an `array` called `scoreBowlingGame`:
 - The input of the array in this wile is :
 
-``````const scoreBowlingGame = [
-[1, 2],
+`const scoreBowlingGame = [
+	[1, 2],
 
-    [10, null],
+	[10, null],
 
-    [5, 4],
+	[5, 4],
 
-    [7, 3],
+	[7, 3],
 
-    [10, null],
+	[10, null],
 
-    [10, null],
+	[10, null],
 
-    [1, 4],
+	[1, 4],
 
-    [6, 2],
+	[6, 2],
 
-    [7, 3],
+	[7, 3],
 
-    [10, 3, 7]
-
-]`````
+	[10, 3, 7]
+]`
 
 And the output has to be :
 
