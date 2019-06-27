@@ -26,7 +26,7 @@ If you score a frame in one of three ways. First, if it is not a strike or a spa
 
 In order to download and run the app on your PC, please take the following steps:
 
-1. In the terminal of your PC introduce `git clone https://github.com/ioanadamo/Calculate-Bowling-Game-Score`
+1. In the terminal of your PC introduce `https://github.com/ioanadamo/Calculate-Bowling-Game-Score.git`
 2. Move to the folder of the repository
 3. Still in the terminal introduce `npm init` and click enter until it's asking _Is this OK?_ and please type _yes_ and click enter.
 4. Introduce in the terminal `npm install --save-dev jest`
