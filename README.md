@@ -1,4 +1,4 @@
-#### Calculate-Bowling-Game-Score
+## Calculate-Bowling-Game-Score
 
 App that calculates the score of a Bowling Game and tests the functionality of the method of its calculation.
 
@@ -39,7 +39,7 @@ In the folder test - file - main-calculateScore.test.js you will find the test s
 - The test is taking as a parameter an `array` called `scoreBowlingGame`:
 - The input of the array in this wile is :
 
-`let scoreBowlingGame = [
+``````const scoreBowlingGame = [
 [1, 2],
 
     [10, null],
@@ -60,7 +60,7 @@ In the folder test - file - main-calculateScore.test.js you will find the test s
 
     [10, 3, 7]
 
-]`
+]`````
 
 And the output has to be :
 
@@ -77,3 +77,4 @@ Introduce `npm test` in the console and you will receive a feed-back in the cons
 You're wellcome,
 
 Ioana Daniela Moldovan
+``````

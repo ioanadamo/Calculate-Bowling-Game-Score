@@ -7,7 +7,7 @@ test('scoreCalulator', () => {
 		'Game Score': 140
 	});
 });
-let scoreBowlingGame = [
+const scoreBowlingGame = [
 	[1, 2],
 
 	[10, null],
