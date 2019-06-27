@@ -47,26 +47,5 @@ class ScoreCalculator {
 		return { 'Frame Scores': frameScore.toString(), 'Game Score': gameScore };
 	}
 }
-const scoreBowlingGame = [
-	[1, 2],
-
-	[10, null],
-
-	[5, 4],
-
-	[7, 3],
-
-	[10, null],
-
-	[10, null],
-
-	[1, 4],
-
-	[6, 2],
-
-	[7, 3],
-
-	[10, 3, 7]
-];
 
 module.exports = ScoreCalculator;
